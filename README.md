@@ -1,7 +1,7 @@
-# Farm
-[![Build Status](https://travis-ci.org/drumser/farm.svg?branch=master)](https://travis-ci.org/drumser/farm)
-[![codecov](https://codecov.io/gh/drumser/farm/branch/master/graph/badge.svg)](https://codecov.io/gh/drumser/farm)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/drumser/farm/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/drumser/farm/?branch=master)
+# Ferma
+[![Build Status](https://travis-ci.org/drumser/ferma.svg?branch=master)](https://travis-ci.org/drumser/ferma)
+[![codecov](https://codecov.io/gh/drumser/ferma/branch/master/graph/badge.svg)](https://codecov.io/gh/drumser/ferma)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/drumser/ferma/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/drumser/ferma/?branch=master)
 
 ##Description:
 При выполнении задания рекомендуется использовать систему контроля версий Git и готовое задание прислать ссылкой на репозиторий.
